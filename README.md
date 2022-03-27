@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/d5fneo219i5qs0ve?svg=true)](https://ci.appveyor.com/project/Andrey-36/java-task-2-2-gradle-testwebselenide)
