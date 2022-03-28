@@ -17,6 +17,7 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.2'
     testImplementation 'com.codeborne:selenide:5.19.0'
     testImplementation("io.github.bonigarcia:webdrivermanager:5.1.0")
+    testImplementation group: 'org.slf4j', name: 'slf4j-simple', version: '1.6.2'
 }
 
 test {
